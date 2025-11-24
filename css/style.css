@@ -57,7 +57,10 @@ h2{
 .about-me{
     display: flex;
     gap: 48px;
+<<<<<<< HEAD
     align-items: center;
+=======
+>>>>>>> eac048594c8204ea925c390bafd3f58f060245c7
     &__text{flex: 1 1 60%}
     &__image{ flex:1 1 40% }
 }
